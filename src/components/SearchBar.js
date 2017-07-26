@@ -13,7 +13,7 @@ class SearchBar extends Component {
 
   render() {
     return (
-      <div className="form-group">
+      <div className="search-bar col-md-12">
         <input
           className="form-control"
           placeholder="Search Term"
